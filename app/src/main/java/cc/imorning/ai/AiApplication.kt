@@ -11,9 +11,10 @@ class AiApplication : Application() {
     }
 
     private fun loadLibraries() {
-        loadLibrary("ai")
-        loadLibrary("opencv")
-        loadLibrary("opencv_java4")
+        val libraries = arrayOf("ai", "opencv_java4", "opencv")
+        for (lib in libraries) {
+            loadLibrary(lib)
+        }
     }
 
 }
