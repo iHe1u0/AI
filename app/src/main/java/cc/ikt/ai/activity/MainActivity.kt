@@ -1,12 +1,8 @@
-package cc.imorning.ai.activity
+package cc.ikt.ai.activity
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.os.Environment
-import android.widget.TextView
-import cc.imorning.ai.databinding.ActivityMainBinding
-import cc.imorning.opencv.config.Version
-import java.io.File
+import androidx.appcompat.app.AppCompatActivity
+import cc.ikt.ai.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

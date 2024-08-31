@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'cc.imorning.ai'
+    namespace 'cc.ikt.ai'
     compileSdk 33
 
     defaultConfig {
-        applicationId "cc.imorning.ai"
+        applicationId "cc.ikt.ai"
         minSdk 26
         targetSdk 33
         versionCode 1

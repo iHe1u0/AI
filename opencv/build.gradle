@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'cc.imorning.opencv'
+    namespace 'cc.ikt.opencv'
     compileSdk 33
 
     defaultConfig {

@@ -1,4 +1,4 @@
-package cc.imorning.ai
+package cc.ikt.opencv
 
 import org.junit.Test
 

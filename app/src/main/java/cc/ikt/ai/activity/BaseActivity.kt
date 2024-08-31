@@ -1,4 +1,4 @@
-package cc.imorning.ai.activity
+package cc.ikt.ai.activity
 
 import androidx.appcompat.app.AppCompatActivity
 

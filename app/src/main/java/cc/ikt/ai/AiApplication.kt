@@ -1,4 +1,4 @@
-package cc.imorning.ai
+package cc.ikt.ai
 
 import android.app.Application
 import java.lang.System.loadLibrary
