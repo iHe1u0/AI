@@ -1,5 +1,5 @@
 package cc.ikt.ai.activity
 
-import androidx.appcompat.app.AppCompatActivity
+import android.app.Activity
 
-class BaseActivity : AppCompatActivity()
+class BaseActivity : Activity()
